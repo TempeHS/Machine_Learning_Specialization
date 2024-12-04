@@ -8,7 +8,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": ["README.md"]
+      "openFiles": []
     },
     "vscode": {
       "settings": {
