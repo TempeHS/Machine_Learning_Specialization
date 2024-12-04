@@ -1,20 +1,15 @@
 {
-  "name": "Python Flask Development Container",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "pip install -r requirements.txt",
+  "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
-  "postAttachCommand": {},
-  "portsAttributes": {
-    "5000": {
-      "label": "Application",
-      "onAutoForward": "openPreview"
-    }
-  },
   "customizations": {
+    "codespaces": {
+      "openFiles": []
+    },
     "vscode": {
       "settings": {
         "files.autoSave": "onFocusChange",
@@ -56,6 +51,5 @@
         "ms-toolsai.vscode-jupyter-slideshow"
       ]
     }
-  },
-  "forwardPorts": [5000]
+  }
 }
