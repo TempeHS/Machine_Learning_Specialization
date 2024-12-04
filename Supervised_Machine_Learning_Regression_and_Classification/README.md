@@ -19,14 +19,14 @@
 
 ### Regression Model
 
-1.  Video: [Linear regression model part 1]() - 10 min
-2.  Video: [Linear regression model part 2]() - 6 min
-3.  Lab: [Model representation]()
-4.  Video: [Cost function formula]() - 9 min
-5.  Video: [Cost function intuition]() - 15 min
-6.  Video: [Visualizing the cost function]() - 8 min
-7.  Video: [Visualization examples]() - 6 min
-8.  Lab: [Cost function]()
+1.  Video: [Linear regression model part 1](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/1.%20Linear%20regression%20model%20part%201.mp4?csf=1&web=1&e=NtaUTJ) - 10 min
+2.  Video: [Linear regression model part 2](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/2.%20Linear%20regression%20model%20part%202.mp4?csf=1&web=1&e=1q0fnz) - 6 min
+3.  Lab: [Model representation](/Supervised_Machine_Learning_Regression_and_Classification/Week_1/)
+4.  Video: [Cost function formula](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/4.%20Cost%20function%20formula.mp4?csf=1&web=1&e=2RL3SQ) - 9 min
+5.  Video: [Cost function intuition](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/5.%20Cost%20function%20intuition.mp4?csf=1&web=1&e=PQUvem) - 15 min
+6.  Video: [Visualizing the cost function](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/6.%20Visualizing%20the%20cost%20function.mp4?csf=1&web=1&e=obtSmf) - 8 min
+7.  Video: [Visualization examples](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-SoftwareEngineering-SharedResources/Shared%20Documents/Resources/Machine%20Learning%20Specialisation/Supervised%20Machine%20Learning%20Regression%20and%20Classification/3.%20Regression%20Model/7.%20Visualization%20examples.mp4?csf=1&web=1&e=DWIBrg) - 6 min
+8.  Lab: [Cost function](/Supervised_Machine_Learning_Regression_and_Classification/Week_1/)
 
 ### Train the model with gradient descent
 
