@@ -34,12 +34,9 @@
       "extensions": [
         "McCarter.start-git-bash",
         "yy0931.vscode-sqlite3-editor",
-        "medo64.render-crlf",
-        "ecmel.vscode-html-css",
         "ms-python.python",
         "esbenp.prettier-vscode",
         "oderwat.indent-rainbow",
-        "ritwickdey.LiveServer",
         "tomoki1207.pdf",
         "ms-vscode-remote.remote-containers",
         "ms-vscode-remote.remote-wsl",
@@ -51,7 +48,12 @@
         "yahyabatulu.vscode-markdown-alert",
         "bierner.markdown-preview-github-styles",
         "mechatroner.rainbow-csv",
-        "ms-python.pylint"
+        "ms-python.pylint",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow"
       ]
     }
   },
